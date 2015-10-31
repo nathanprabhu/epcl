@@ -1,0 +1,15 @@
+Target Date/Time	Estimated Hours		Task
+10/30/15 24:00		3 Hours			Project Setup - Software Tools and Server 
+10/31/15 17:00		5 Hours			Create UI for all Admin Screens
+11/01/15 17:00		5 Hours			Create UI for all User Screens
+11/01/15 24:00		3 Hours			Create Database, Tables (With Sample Data)
+11/02/15 17:00		3 Hours			Link Login Module to UI, Run Sample Query using UI inputs
+11/03/15 20:00		5 Hours			Identify, write and test all possible query
+11/04/15 17:00		8 Hours			Admin Module - Create and Modify Test
+11/05/15 17:00		8 Hours			User Module - Attempt experiment and Record response and reaction time
+11/05/15 20:00		2 Hours			Link Results/Report Module to UI
+11/05/15 24:00		2 Hours			Testing and Bug fixes
+11/06/15 24:00		2 Hours			Client Live Demo(based on Client availability) / Share Online Link
+11/08/15 24:00		2 Hours			Presentation Preparation 
+11/08/15 24:00		1-16 Hours		Modify Code based on Client Feedback and Testing
+11/09/15 11:00		1 Hour			Demo/Presentation (Low Target)
