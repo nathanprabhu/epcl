@@ -1,2 +1,3 @@
-# epcl
-Experiment Platform for Cognitive Learning
+# EPCL - Experiment Platform for Cognitive Learning
+
+The goal of this project is to develop an application to conduct Cognitive learning experiments and analyze the results of the experiment. Initially, a concept will be taught to the user (through a description), it will be followed by a series of images (questions) and the user will be asked to record his response based on the concept he learned. The system sends feedback to the user for every question he attempts. After each feedback, the user’s knowledge on the subject increases. At a particular point, the system will reverse itself, now the correct answers to the question would be different from what has been thought in the beginning. The response and reaction time of user’s answer will be noted for analysis. After the user completes the experiment, the test administrator views the results obtained from the experiment. The raw data will be analyzed and visualized through various parameters.
