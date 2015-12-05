@@ -4,7 +4,10 @@
 <style>
 
 @import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,700);
-
+// VIDEO LINK AVAILABLE HERE:
+// Admin 2nd demo  - https://youtu.be/K7MVdmndEvs
+// Admin 1st demo  - https://youtu.be/e-r_7BykN-0
+// User demo       - https://youtu.be/741iafNrSWQ
 body {
   font-family: "Helvetica Neue";
   margin: 40px auto;
