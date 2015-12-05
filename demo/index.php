@@ -7,7 +7,7 @@
 
 body {
   font-family: "Helvetica Neue";
-  margin: 41px auto;
+  margin: 40px auto;
   width: 960px;
   min-height: 2000px;
 }
